@@ -24,4 +24,4 @@ This project utilizes various deep learning techniques such as Convolutional Neu
     - `summarization-functionality`
   - `website`
     - `frontend`
-    - `backend
+    - `backend`
